@@ -7,7 +7,7 @@ En esta práctica ponemos en práctica los conocimientos adquiridos de vUEJS en 
 
 Link de los requerimientos de la pagina ---->>>[LINK](https://github.com/LaunchX-InnovaccionVirtual/FrontEnd-Mision/tree/main/05%20-%20VUEJS/practica)
 
-Link de la página desplegada en Github pages --->>> LINK
+Link de la página desplegada en Github pages --->>> [LINK](https://robertoperedo.github.io/despliegue-Vue-practice/#/inventario)
 
 Capturas de pantalla del funcionamiento del sitio, se muestra la navegación por las distintas vistas del sitio, así como también se observa que el sitio es responsivo
 
